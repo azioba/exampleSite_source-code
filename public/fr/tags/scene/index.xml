@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on M. HAMIDOU BA Abdoul Aziz</title>
+    <link>azioba.github.io/fr/tags/scene/</link>
+    <description>Recent content in scene on M. HAMIDOU BA Abdoul Aziz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Feb 2023 10:58:08 -0400</lastBuildDate><atom:link href="azioba.github.io/fr/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projet 1: Classification d&#39;images</title>
+      <link>azioba.github.io/fr/post/chapter-1/</link>
+      <pubDate>Thu, 23 Feb 2023 10:58:08 -0400</pubDate>
+      
+      <guid>azioba.github.io/fr/post/chapter-1/</guid>
+      <description>AWS EMR - Pyspark - CNN - Hadoop - AWS S3 - Tensorflow - PCA - JupyterHub Dans ce projet orienté Big Data j&amp;rsquo;ai réalisé un modèle de classification de fruits à partir d&amp;rsquo;images:
+Réalisation en local d&amp;rsquo;un modèle de classification d&amp;rsquo;image sur Pyspark à l&amp;rsquo;aide d&amp;rsquo;un CNN MobileNetV2 de tensorflow. Réduction de dimension PCA en Pyspark J&amp;rsquo;ai ensuite choisi de déployer le modèle en utilisant la solution d&amp;rsquo;Amazon: Solution technique: Elastic MapReduce Stockage: Amazon Simple Storage Service S3 Ce projet m&amp;rsquo;a permis de maitriser le déploiement d&amp;rsquo;un modèle avec les outils du Big Data:</description>
+    </item>
+    
+    <item>
+      <title>Projet 2: Scoring des clients d&#39;une société financière</title>
+      <link>azioba.github.io/fr/post/chapter-2/</link>
+      <pubDate>Fri, 10 Feb 2023 11:00:59 -0400</pubDate>
+      
+      <guid>azioba.github.io/fr/post/chapter-2/</guid>
+      <description>Amazon Web Services - Smote - Docker - Github CI/CD - GridSearchCV - Streamlit - Flask - SHAP Dans ce projet j&amp;rsquo;ai mis en place un outils de scoring crédit pour calculer la probabilité qu&amp;rsquo;un client rembourse son crédit, et classifier la demande en accordé ou refusé. Pour réaliser cette tache, j&amp;rsquo;ai mis en place un algorithme de classification s&amp;rsquo;appuyant sur des sources de données variées. Puis j&amp;rsquo;ai créé un dashboard interactif, permettant de prédire les scores des clients, que j&amp;rsquo;ai déployé sur le cloud d&amp;rsquo;Amazon Web Services.</description>
+    </item>
+    
+    <item>
+      <title>Projet 4: NLP &amp; Computer Vision</title>
+      <link>azioba.github.io/fr/post/chapter-4/</link>
+      <pubDate>Thu, 12 Jan 2023 11:14:48 -0400</pubDate>
+      
+      <guid>azioba.github.io/fr/post/chapter-4/</guid>
+      <description>NLP - BERT - USE - CNN - Transfert Learning - PCA L&amp;rsquo;objectif de ce projet est l&amp;rsquo;automatisation de l&amp;rsquo;attribution d&amp;rsquo;une catégorie aux articles mis en ligne sur une site de vente en ligne. Pour celà j&amp;rsquo;ai mis en place un moteur de classification des articles en différentes catégories, avec un niveau de précision suffisant. La classification étant basée sur une image et une description, j&amp;rsquo;ai procédé par étapes:</description>
+    </item>
+    
+  </channel>
+</rss>

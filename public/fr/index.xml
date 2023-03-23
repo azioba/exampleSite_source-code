@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bienvenue on M. HAMIDOU BA Abdoul Aziz</title>
+    <link>azioba.github.io/fr/</link>
+    <description>Recent content in Bienvenue on M. HAMIDOU BA Abdoul Aziz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Feb 2023 10:58:08 -0400</lastBuildDate><atom:link href="azioba.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projet 1: Classification d&#39;images</title>
+      <link>azioba.github.io/fr/post/chapter-1/</link>
+      <pubDate>Thu, 23 Feb 2023 10:58:08 -0400</pubDate>
+      
+      <guid>azioba.github.io/fr/post/chapter-1/</guid>
+      <description>AWS EMR - Pyspark - CNN - Hadoop - AWS S3 - Tensorflow - PCA - JupyterHub Dans ce projet orienté Big Data j&amp;rsquo;ai réalisé un modèle de classification de fruits à partir d&amp;rsquo;images:
+Réalisation en local d&amp;rsquo;un modèle de classification d&amp;rsquo;image sur Pyspark à l&amp;rsquo;aide d&amp;rsquo;un CNN MobileNetV2 de tensorflow. Réduction de dimension PCA en Pyspark J&amp;rsquo;ai ensuite choisi de déployer le modèle en utilisant la solution d&amp;rsquo;Amazon: Solution technique: Elastic MapReduce Stockage: Amazon Simple Storage Service S3 Ce projet m&amp;rsquo;a permis de maitriser le déploiement d&amp;rsquo;un modèle avec les outils du Big Data:</description>
+    </item>
+    
+    <item>
+      <title>Projet 2: Scoring des clients d&#39;une société financière</title>
+      <link>azioba.github.io/fr/post/chapter-2/</link>
+      <pubDate>Fri, 10 Feb 2023 11:00:59 -0400</pubDate>
+      
+      <guid>azioba.github.io/fr/post/chapter-2/</guid>
+      <description>Amazon Web Services - Smote - Docker - Github CI/CD - GridSearchCV - Streamlit - Flask - SHAP Dans ce projet j&amp;rsquo;ai mis en place un outils de scoring crédit pour calculer la probabilité qu&amp;rsquo;un client rembourse son crédit, et classifier la demande en accordé ou refusé. Pour réaliser cette tache, j&amp;rsquo;ai mis en place un algorithme de classification s&amp;rsquo;appuyant sur des sources de données variées. Puis j&amp;rsquo;ai créé un dashboard interactif, permettant de prédire les scores des clients, que j&amp;rsquo;ai déployé sur le cloud d&amp;rsquo;Amazon Web Services.</description>
+    </item>
+    
+    <item>
+      <title>Projet 3: Segmentation des clients d&#39;un site d&#39;E-commerce</title>
+      <link>azioba.github.io/fr/post/chapter-3/</link>
+      <pubDate>Mon, 23 Jan 2023 11:13:32 -0400</pubDate>
+      
+      <guid>azioba.github.io/fr/post/chapter-3/</guid>
+      <description>Séries temporelles - RFM - ARI - PCA - K-means - DBScan
+Dans ce projet, ma mission consistait à comprendre les différents types de clients d&amp;rsquo;un site d&amp;rsquo;E-commerce et de réaliser une segmentation de ces clients. J&amp;rsquo;ai donc réalisé ce projet à travers plusieurs étapes:
+Une analyse exploratoire afin de comprendre les données pour mieux les exploiter.
+Aggrégation des clients et commandes en RFM
+Reduction de dimension PCA
+Test de plusieurs méthodes de segmentation: DBScan, Clustering Hierarchique, K-means Calcul de la courbe ARI et estimation du délai de maintenance du modèle Ce projet m&amp;rsquo;a permis d&amp;rsquo;aborder et surmonter des difficultés tels que le fait que seuls 3% des clients ont passé plus d&amp;rsquo;une commande, ce qui rendait la segmentation un peu peu plus compliqué à mettre en place.</description>
+    </item>
+    
+    <item>
+      <title>Projet 4: NLP &amp; Computer Vision</title>
+      <link>azioba.github.io/fr/post/chapter-4/</link>
+      <pubDate>Thu, 12 Jan 2023 11:14:48 -0400</pubDate>
+      
+      <guid>azioba.github.io/fr/post/chapter-4/</guid>
+      <description>NLP - BERT - USE - CNN - Transfert Learning - PCA L&amp;rsquo;objectif de ce projet est l&amp;rsquo;automatisation de l&amp;rsquo;attribution d&amp;rsquo;une catégorie aux articles mis en ligne sur une site de vente en ligne. Pour celà j&amp;rsquo;ai mis en place un moteur de classification des articles en différentes catégories, avec un niveau de précision suffisant. La classification étant basée sur une image et une description, j&amp;rsquo;ai procédé par étapes:</description>
+    </item>
+    
+    <item>
+      <title>Réseaux sociaux</title>
+      <link>azioba.github.io/fr/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>azioba.github.io/fr/contact/</guid>
+      <description>vous pouvez me trouvez sur ces réseaux sociaux:
+Platforme URL LinkedIn: https://www.linkedin.com/in/abdoul-aziz-m-hamidou-ba-69004b78/ GitHub: https://github.com/azioba </description>
+    </item>
+    
+  </channel>
+</rss>

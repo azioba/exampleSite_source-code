@@ -1,0 +1,42 @@
+title = "M. HAMIDOU BA Abdoul Aziz"
+baseURL = "azioba.github.io/"
+languageCode = "en-us"
+theme = "ananke"
+#resourceDir = "../resources"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+canonifyURLs = true
+
+[languages]
+  [languages.en]
+    title = "M. HAMIDOU BA Abdoul Aziz"
+    weight = 1
+    contentDir = "content/en"
+    # languageDirection = 'rtl' for Right-To-Left languages
+  [languages.fr]
+    title = "M. HAMIDOU BA Abdoul Aziz"
+    weight = 2
+    contentDir = "content/fr"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  text_color = ""
+  author = ""
+  favicon = ""
+  site_logo = ""
+  github = "https://github.com/azioba"
+  linkedin = "https://www.linkedin.com/in/abdoul-aziz-m-hamidou-ba-69004b78/"
+  description = "The last theme you'll ever need. Maybe."
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  recent_posts_number = 3
+
+
